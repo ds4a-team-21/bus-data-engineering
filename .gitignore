@@ -1,0 +1,10 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+venv
+notebooks
+.ebignore
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
